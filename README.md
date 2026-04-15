@@ -1,7 +1,6 @@
 # **Nomad Guide**
 ### **No-registration chat**
 - <https://hack.chat/>
-- <https://discord.com/> (some servers require registration)
 - <https://4chan.org/>
 - <https://8kun.top/>
 - <https://lainchan.org/>
@@ -145,6 +144,13 @@
 - <https://betternet.co/>
 - <https://dongtaiwang.com/home_en.php>
 
+### **No-registration physical mail proxies (receive-only)**
+- <https://www.thinkpenguin.com/gnu-linux/privacy-proxy-purchase-physical-goods-proxy/> (paid, accepts crypto)
+
+### **No-registration physical mail proxies (send-only)**
+- <https://www.remailer.net/> (paid, accepts USD)
+- <https://rapidremailer.com/> (paid, accepts USD)
+- <https://texasremail.com/> (paid, accepts USD)
 
 ### **No-registration cryptocurrency exchanges**
 - <https://godex.io/>
